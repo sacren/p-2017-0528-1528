@@ -2,4 +2,4 @@
 layout: default
 ---
 
-{% include svg.html %}
+{% include circle.html %}
